@@ -1,4 +1,4 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
-\Magento\Framework\Component\ComponentRegistrar::THEME, 'frontend/Custom/Theme', __DIR__
+\Magento\Framework\Component\ComponentRegistrar::THEME, 'frontend/Customomiz/Theme', __DIR__
 );
